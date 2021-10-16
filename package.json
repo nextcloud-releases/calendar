@@ -63,7 +63,7 @@
 		"debounce": "^1.2.1",
 		"jstz": "^2.1.1",
 		"linkify-string": "^3.0.2",
-		"linkifyjs": "^3.0.1",
+		"linkifyjs": "^3.0.3",
 		"md5": "^2.3.0",
 		"p-limit": "^4.0.0",
 		"v-tooltip": "^2.1.3",
